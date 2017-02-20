@@ -1,0 +1,22 @@
+before_install:
+- pip install --upgrade pip wheel
+language: python
+cache: apt
+sudo: false
+
+python:
+- '2.7'
+
+install:
+ - pip install Nikola
+ - pip install "Nikola[extras]"
+
+script:
+ - nikola build
+
+after_succes:
+ - test $TRAVIS_PULL_REQUEST == "false" && $TRAVIS_BRANCH == "master" && nikola deploy.sh
+
+env:
+  global:
+    - secure: "KN06oaFZBRXy/50mBtgYe9LH2xUMABx1x1PQYl2B9ShcZC3LCGJDXfCRFW5K03Qw7UU9JInjQ9u47a0pTmaxvO3u02d6DkSVm5dKYPUZRayk1JY7ObcEKmjngqL8GJSl9D7qLk9TxdXs+oaNe/8OLB2OmuILTa2YADAxa20n/3vdEov0LwHWImCvuDaHA2/15MUVhXyzG/lD0Xa4Lq3AWS46djtzMiAGt8DGLrDPTL7GR/FRzhNkwJPFqHULjfwa81ZFfoZ4s7OAWow61vJIBQmPSn22N1YuLT0d7gSiLOHtKxMvl54HyXPMbEl3DQN3w7ih1aCwa1teyJO06Wm0NRdiGjwaiBB3LaGGuHNysyfC4j/KKyn6emm6FTD9H9OGZXmn50QJNHU82sb133OrRdomVG0s72ONkwonqEZd5LdXd9DJaTsUOWymbs5h5FhZJrAYXeP7kOIRC1va8IhL9cFTl+qQtUXWWBWfurLTLDexJQ0jxCCsN7RTR1OLS64cbJA7TtrX5u6PZRnYf/U5CNjO8hvKvMQ+Pm8bo9h9CZFF0+Ep6rWoO5vqVQ/00C7SQddpzM3cWTLzzkx+WgynlcBUCm/qif+l3puLJmIJmgu0vxzsO5tJQdn/JkgzMK8tQmkHgklruLiwzb8lSOy57SwfyRJbdke3YWFlo51ekHc="
