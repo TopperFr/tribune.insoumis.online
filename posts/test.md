@@ -9,4 +9,4 @@
 .. type: text
 -->
 
-Write your post here.
+Test d'auto deploiement.
