@@ -963,7 +963,7 @@ UNSLUGIFY_TITLES = True
 # Uncomment and modify to following lines to match your accounts.
 # Images displayed come from the `previewimage` meta tag.
 # You can specify the card type by using the `card` parameter in TWITTER_CARD.
- TWITTER_CARD = {
+TWITTER_CARD = {
      'use_twitter_cards': True,     # enable Twitter Cards
      'card': 'summary',             # Card type, you can also use 'summary_large_image',
                                     # see https://dev.twitter.com/cards/types
