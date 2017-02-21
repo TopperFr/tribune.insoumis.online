@@ -3,21 +3,15 @@ before_install:
 language: python
 cache: apt
 sudo: false
-
 python:
 - '3.4'
-
 install:
- - pip install Nikola
- - pip install "Nikola[extras]"
-
+- pip install Nikola
+- pip install "Nikola[extras]"
 script:
- - nikola build
-
+- nikola build
 after_success:
-# - test $TRAVIS_PULL_REQUEST == "false" && $TRAVIS_BRANCH == "master" && bash deploy.sh
- - bash deploy.sh
-
+- bash deploy.sh
 env:
   global:
-    - secure: "KN06oaFZBRXy/50mBtgYe9LH2xUMABx1x1PQYl2B9ShcZC3LCGJDXfCRFW5K03Qw7UU9JInjQ9u47a0pTmaxvO3u02d6DkSVm5dKYPUZRayk1JY7ObcEKmjngqL8GJSl9D7qLk9TxdXs+oaNe/8OLB2OmuILTa2YADAxa20n/3vdEov0LwHWImCvuDaHA2/15MUVhXyzG/lD0Xa4Lq3AWS46djtzMiAGt8DGLrDPTL7GR/FRzhNkwJPFqHULjfwa81ZFfoZ4s7OAWow61vJIBQmPSn22N1YuLT0d7gSiLOHtKxMvl54HyXPMbEl3DQN3w7ih1aCwa1teyJO06Wm0NRdiGjwaiBB3LaGGuHNysyfC4j/KKyn6emm6FTD9H9OGZXmn50QJNHU82sb133OrRdomVG0s72ONkwonqEZd5LdXd9DJaTsUOWymbs5h5FhZJrAYXeP7kOIRC1va8IhL9cFTl+qQtUXWWBWfurLTLDexJQ0jxCCsN7RTR1OLS64cbJA7TtrX5u6PZRnYf/U5CNjO8hvKvMQ+Pm8bo9h9CZFF0+Ep6rWoO5vqVQ/00C7SQddpzM3cWTLzzkx+WgynlcBUCm/qif+l3puLJmIJmgu0vxzsO5tJQdn/JkgzMK8tQmkHgklruLiwzb8lSOy57SwfyRJbdke3YWFlo51ekHc="
+  - secure: oAcL5TQwwyigLGgs+kwWqMlo3MOLLVlI4flu+KHwU+kqh+yhwLdfN+otb2stSelF6pAMJ/UV3lrLryJf6CHcn5OrL8k4a/D3phZs2HY/vSZ0C2f+SZWLXU0QFxmtlhDANTN+QyPHhUFgqTBf+vgcJpb84VLFfasMvzJuOKzKI0usoEmFQxtfVmTKGnBpm7lMP+uzcqWr6KZziEGkBVJL8snliYyAoHyJIXVdk5YKWn4dbHKmNxlE2mIInjcellWw/YdaHBlmwT8PghPKPYLaclzzxHr5W/GIeNt9gtiUxO+5J7lmcct/4BgYlnuMtS9UGZnEmrHJNw22deoHIqNpsaZjEsfUROw+AnL2aMLCuP7P8dkpREgtqNWG+mbugONOIQa45zP97sHD8xwAcIiHpFYwlB2/dlCdR5m0YxnkUdbiE4h36iaos3t0ClwAB4jM3o1vZ/xBAO2TPFxcOXFAEABq1T3z70+NWLTWRaQXI+WSeO1bUKcX6S/Y8JFX8HOJR1hVrvj8f1xlKKDA3o+8/y421X+J4p+XGO2zABYD/cyNJnOgjhTI0n7E3E5mVrl/nAmIqgOnRD590sKEwpj7SNGHxI77bIIUSj4z5yJygkOMh+cqgTI1lFD/BmhLbHHWDW2LX04vBp9JXbC7JtiHhXuS3fMfIYMzMjVI6Sp9+kI=
