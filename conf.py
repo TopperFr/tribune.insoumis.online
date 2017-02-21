@@ -25,7 +25,7 @@ SITE_URL = "http://tribune.insoumis.online/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://tribune.insoumis.online/"
-BLOG_EMAIL = "email@email.com"
+BLOG_EMAIL = "jvlp.insoumis@gmail.com"
 BLOG_DESCRIPTION = "Tribune de militants insoumis"  # (translatable)
 
 # Nikola is multilingual!
