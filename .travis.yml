@@ -15,7 +15,8 @@ script:
  - nikola build
 
 after_success:
- - test $TRAVIS_PULL_REQUEST == "false" && $TRAVIS_BRANCH == "master" && bash deploy.sh
+# - test $TRAVIS_PULL_REQUEST == "false" && $TRAVIS_BRANCH == "master" && bash deploy.sh
+ - bash deploy.sh
 
 env:
   global:
