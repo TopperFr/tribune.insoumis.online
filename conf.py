@@ -204,13 +204,13 @@ TIMEZONE = "Europe/Paris"
 #
 
 POSTS = (
-    ("posts/*.md", "posts", "post.tmpl"),
     ("posts/*.rst", "posts", "post.tmpl"),
+    ("posts/*.md", "posts", "post.tmpl"),
     ("posts/*.txt", "posts", "post.tmpl"),
 )
 PAGES = (
-    ("stories/*.md", "stories", "story.tmpl"),
     ("stories/*.rst", "stories", "story.tmpl"),
+    ("stories/*.md", "stories", "story.tmpl"),
     ("stories/*.txt", "stories", "story.tmpl"),
 )
 
