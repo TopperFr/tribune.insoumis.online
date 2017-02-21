@@ -10,7 +10,8 @@ fi
 
 rev=$(git rev-parse --short HEAD)
 
-cd stage/_book
+mkdir deploy
+cd deploy
 
 git init
 git config user.name "Lucas Gautheron"
