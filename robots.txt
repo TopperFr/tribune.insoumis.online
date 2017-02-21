@@ -1,2 +1,4 @@
 Sitemap: http://tribune.insoumis.online/sitemapindex.xml
 
+User-Agent: *
+Host: tribune.insoumis.online
