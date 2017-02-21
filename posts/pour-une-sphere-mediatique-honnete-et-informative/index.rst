@@ -1,5 +1,5 @@
 .. title: La France Insoumise en Campagne, Tribune pour une sphère médiatique honnête et informative
-.. slug: la-france-insoumise-en-campagne-tribune-pour-une-sphere-mediatique-honnete-et-informative
+.. slug: pour-une-sphere-mediatique-honnete-et-informative
 .. date: 2017-02-21 19:42:28 UTC+01:00
 .. tags: 
 .. category: 
