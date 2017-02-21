@@ -1,6 +1,6 @@
 article div > p {
   text-indent: 1em;
-  margin-bottom: 0;
+  margin-bottom: 2em;
   text-align: justify;
 }
 
