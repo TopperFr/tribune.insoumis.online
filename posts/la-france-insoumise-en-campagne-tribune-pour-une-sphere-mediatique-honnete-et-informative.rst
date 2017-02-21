@@ -44,7 +44,7 @@ Certes, cette rencontre ne s’annonçait pas comme un long fleuve tranquille, m
 
  .. [#] Disponible en librairie au prix de 3 € seulement et maintenant accessible en accès libre à https://laec.fr
  .. [#] Accessibles à l’adresse suivante : https://avenirencommun.fr/livrets-thematiques/
- .. [#] Bien documenté sur le site Internet opiam.fr 
+ .. [#] Bien documenté sur le site Internet http://opiam.fr 
  .. [#] Voir http://www.monde-diplomatique.fr/cartes/ppa
  .. [#] Accessible sur YouTube à l’adresse suivante : https://youtu.be/T7b67QCjibc
  .. [#] Seulement 3,1 % de temps d’antenne sur la période du 1er au 12 février 2017 sur les chaînes généralistes. Source : CSA Février 2017
