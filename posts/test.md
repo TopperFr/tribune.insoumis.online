@@ -9,5 +9,4 @@
 .. type: text
 -->
 
-Test d'auto deploiement.
-Nouveau test.
+Ceci n'est pas un exercice.
