@@ -5,7 +5,7 @@ cache: apt
 sudo: false
 
 python:
-- '2.7'
+- '3.1'
 
 install:
  - pip install Nikola
@@ -14,8 +14,8 @@ install:
 script:
  - nikola build
 
-after_succes:
- - test $TRAVIS_PULL_REQUEST == "false" && $TRAVIS_BRANCH == "master" && deploy.sh
+after_success:
+ - test $TRAVIS_PULL_REQUEST == "false" && $TRAVIS_BRANCH == "master" && bash deploy.sh
 
 env:
   global:
