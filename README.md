@@ -1,8 +1,8 @@
-# Tribune
+# Tribune [![Build Status](https://travis-ci.org/Insoumis/tribune.insoumis.online.svg?branch=master)](https://travis-ci.org/Insoumis/tribune.insoumis.online)
+
 
 La tribune est un blog propulsé par [Nikola](https://getnikola.com/) qui contient des tribunes de la France Insoumise. Il est hebergé sur github-pages.
 [Accéder au blog : tribune.insoumis.online](http://tribune.insoumis.online)
-[![Build Status](https://travis-ci.org/Insoumis/tribune.insoumis.online.svg?branch=master)](https://travis-ci.org/Insoumis/tribune.insoumis.online)
 
 ## Éditer ou rajouter des posts
 
