@@ -13,6 +13,8 @@ rev=$(git rev-parse --short HEAD)
 mkdir deploy
 cd deploy
 
+echo $GH_TOKEN | cut -c1-5
+
 git init
 git config user.name "Lucas Gautheron"
 git config user.email "lucas.gautheron@gmail.com"
