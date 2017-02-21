@@ -17,7 +17,7 @@ git init
 git config user.name "Lucas Gautheron"
 git config user.email "lucas.gautheron@gmail.com"
 
-git remote add upstream "https://$GH_TOKEN@github.com/lucasgautheron/tribune.insoumis.online.git"
+git remote add upstream "git@github.com:Insoumis/tribune.insoumis.online.git"
 git fetch upstream
 
 nikola github_deploy
