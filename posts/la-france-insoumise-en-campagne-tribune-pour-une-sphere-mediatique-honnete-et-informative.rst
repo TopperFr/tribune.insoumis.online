@@ -37,22 +37,20 @@ Nous vous prions de nous dire, à quel moment ? On l’enferme dans le rôle de 
 Certes, cette rencontre ne s’annonçait pas comme un long fleuve tranquille, mais elle aurait bien pu avoir lieu. Benoît Hamon et l’appareil du PS sont au regard des faits seules et uniques responsables de cette cette union « impossible », impossibilité uniquement mise en scène par la caste médiatique.
 
 
+*Travail collaboratif du Discord des insoumis (discord.insoumis.online), comme la multitude de projets sur lesquels nous travaillons pour la campagne sur Internet de la France Insoumise. *
 
+*Jean-Luc Mélenchon et l’équipe de campagne de la France Insoumise ne sont pas responsables des initiatives du Discord des insoumis et n’ont pas participé à l’écriture de cette tribune.*
 
-Travail collaboratif du Discord des insoumis (discord.insoumis.online), comme la multitude de projets sur lesquels nous travaillons pour la campagne sur Internet de la France Insoumise. 
-
-Jean-Luc Mélenchon et l’équipe de campagne de la France Insoumise ne sont pas responsables des initiatives du Discord des insoumis et n’ont pas participé à l’écriture de cette tribune.
-
- .. [#] Disponible en librairie au prix de 3 € seulement et maintenant accessible en accès libre à https://laec.fr
- .. [#] Accessibles à l’adresse suivante : https://avenirencommun.fr/livrets-thematiques/
- .. [#] Bien documenté sur le site Internet opiam.fr 
- .. [#] http://www.monde-diplomatique.fr/cartes/ppa
- .. [#] Accessible sur YouTube à l’adresse suivante : https://youtu.be/T7b67QCjibc
- .. [#] Seulement 3,1 % de temps d’antenne sur la période du 1er au 12 février 2017 sur les chaînes généralistes. Source : CSA Février 2017
- .. [#] Voir https://laec.fr/s8
- .. [#] France 2 : JT de 20h du dimanche 19 février 2017
- .. [#] https://www.facebook.com/JLMelenchon/posts/10155090160663750
- .. [#] Accord économique et commercial global (AEGC) ou Comprehensive Economic and Trade Agreement (CETA), accord de libre échange entre l’Union Européenne et le Canada
- .. [#] Voir à 5 min 18 sec : https://www.facebook.com/hamonbenoit/videos/10154984248347264/
- .. [#] Consultable à l’adresse suivante : https://youtu.be/_9Grnn1f24k?
+[#] Disponible en librairie au prix de 3 € seulement et maintenant accessible en accès libre à https://laec.fr
+[#] Accessibles à l’adresse suivante : https://avenirencommun.fr/livrets-thematiques/
+[#] Bien documenté sur le site Internet opiam.fr 
+[#] http://www.monde-diplomatique.fr/cartes/ppa
+[#] Accessible sur YouTube à l’adresse suivante : https://youtu.be/T7b67QCjibc
+[#] Seulement 3,1 % de temps d’antenne sur la période du 1er au 12 février 2017 sur les chaînes généralistes. Source : CSA Février 2017
+[#] Voir https://laec.fr/s8
+[#] France 2 : JT de 20h du dimanche 19 février 2017
+[#] https://www.facebook.com/JLMelenchon/posts/10155090160663750
+[#] Accord économique et commercial global (AEGC) ou Comprehensive Economic and Trade Agreement (CETA), accord de libre échange entre l’Union Européenne et le Canada
+[#] Voir à 5 min 18 sec : https://www.facebook.com/hamonbenoit/videos/10154984248347264/
+[#] Consultable à l’adresse suivante : https://youtu.be/_9Grnn1f24k?
 
