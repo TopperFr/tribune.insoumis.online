@@ -34,7 +34,7 @@ Message à l’attention de la rédaction du Journal Télévisé de France 2 et 
 
 Nous vous prions de nous dire, à quel moment ? On l’enferme dans le rôle de celui avec qui il est impossible de discuter, mais les faits démontrent qu’il est le seul à avoir engagé le dialogue et qu’il ne l’a en aucun cas rompu. 
 
-Certes, cette rencontre ne s’annonçait pas comme un long fleuve tranquille, mais elle aurait bien pu avoir lieu. Benoît Hamon et l’appareil du PS sont au regard des faits seules et uniques responsables de cette cette union « impossible », impossibilité uniquement mise en scène par la caste médiatique.
+Certes, cette rencontre ne s’annonçait pas comme un long fleuve tranquille, mais elle aurait bien pu avoir lieu. Benoît Hamon et l’appareil du PS sont au regard des faits seules et uniques responsables de cette union « impossible », impossibilité uniquement mise en scène par la caste médiatique. Ce reportage du dimanche 19 février n’est qu’un exemple parmi tant d’autres, d’une information qui reste superficielle, s’arrêtant aux « personnages » politiques, mettant en scène leur supposée discorde et qui ne s’approche jamais assez de ce qui compte : le programme.
 
 
 
