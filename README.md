@@ -1,6 +1,7 @@
 # Tribune
 
 La tribune est un blog propulsé par [Nikola](https://getnikola.com/) qui contient des tribunes de la France Insoumise. Il est hebergé sur github-pages.
+[Accéder au blog : tribune.insoumis.online](http://tribune.insoumis.online) (nom de domaine bientôt dispo)
 
 ## Éditer ou rajouter des posts
 
