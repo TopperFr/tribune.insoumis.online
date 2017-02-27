@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-Enfin, nous sommes libres [#] ! Il est désormais clair pour à peu près tout le monde que l'hypothèse d'une alliance de deux gauches irréconciliables n'était bien qu'une illusion dans laquelle quelques paniqués s'étaient plongés afin de ne pas affronter la réalité.
+Enfin, nous sommes libres [#]_ ! Il est désormais clair pour à peu près tout le monde que l'hypothèse d'une alliance de deux gauches irréconciliables n'était bien qu'une illusion dans laquelle quelques paniqués s'étaient plongés afin de ne pas affronter la réalité.
 Enfin, peut-être n'aurons-nous plus à faire d'une autre gauche nos adversaires, et à gaspiller nos énergies dans des querelles inextricables. La confusion dans laquelle ces dernières semaines nous ont plongé, conséquence d'un mariage forcé censé réunir deux familles pleines de ressentiment l'une envers l'autre, va pouvoir cesser.
 Et pour dissiper toute cette confusion, pour porter notre mouvement, il nous reste à accomplir la plus belle des tâches : convaincre.
 
@@ -21,7 +21,7 @@ Convaincre qu'on ne se débarrassera pas de la nouvelle aristocratie, cette cast
 
 Alors, chers amis, saisissons-nous de nos arguments, car ils sont nombreux et parlent à tous. Armons-nous de notre programme, et que ce soit à la maison, dans la rue, sur Internet, faisons revivre la politique en réanimant les consciences.
 
-Et bien-sûr, rassemblons-nous à Paris, le 18 mars, pour faire la démonstration de l'immensité de notre force [#] .
+Et bien-sûr, rassemblons-nous à Paris, le 18 mars, pour faire la démonstration de l'immensité de notre force [#]_ .
 
 .. [#] : http://www.liberation.fr/france/2017/02/27/hamon-veut-ouvrir-une-nouvelle-page-de-sa-campagne_1551470
 .. [#] : http://www.jlm2017.fr/rendez_vous_place_de_la_bastille_le_18_mars_2017
