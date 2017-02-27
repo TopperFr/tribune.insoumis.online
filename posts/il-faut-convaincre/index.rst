@@ -23,5 +23,5 @@ Alors, chers amis, saisissons-nous de nos arguments, car ils sont nombreux et pa
 
 Et bien-sûr, rassemblons-nous à Paris, le 18 mars, pour faire la démonstration de l'immensité de notre force [#]_ .
 
-.. [#] : http://www.liberation.fr/france/2017/02/27/hamon-veut-ouvrir-une-nouvelle-page-de-sa-campagne_1551470
-.. [#] : http://www.jlm2017.fr/rendez_vous_place_de_la_bastille_le_18_mars_2017
+ .. [#] : http://www.liberation.fr/france/2017/02/27/hamon-veut-ouvrir-une-nouvelle-page-de-sa-campagne_1551470
+ .. [#] : http://www.jlm2017.fr/rendez_vous_place_de_la_bastille_le_18_mars_2017
