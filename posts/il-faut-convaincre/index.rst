@@ -11,7 +11,7 @@ Enfin, nous sommes libres [#]_ ! Il est désormais clair pour à peu près tout 
 Enfin, peut-être n'aurons-nous plus à faire d'une autre gauche nos adversaires, et à gaspiller nos énergies dans des querelles inextricables. La confusion dans laquelle ces dernières semaines nous ont plongé, conséquence d'un mariage forcé censé réunir deux familles pleines de ressentiment l'une envers l'autre, va pouvoir cesser.
 Et pour dissiper toute cette confusion, pour porter notre mouvement, il nous reste à accomplir la plus belle des tâches : convaincre.
 
-Convaincre que pour combattre l'extrême droite, on ne saurait se ranger derrière ceux-là même qui, parce qu'ils ont trahi, parce qu'ils ont méprisé leurs soutiens populaires pour des raisons de stratégie électorale, ont fait progresser le Front National de 10 points.
+Convaincre que pour combattre l'extrême droite, on ne saurait se ranger derrière ceux-là même qui, parce qu'ils ont trahi, parce qu'ils ont méprisé leurs soutiens populaires pour des raisons de stratégie électorale, ont fait progresser le Front National de 10 points en 5 ans.
 
 Convaincre que pour effectuer la transition écologique, il nous faut un mouvement horizontal, en dehors des partis, porté par une volonté citoyenne localement ancrée de tout renverser.
 
