@@ -1,5 +1,5 @@
 .. title: Appel aux élus de la République française
-.. slug: appel-aux-parrainages
+.. slug: appel-aux-elus
 .. date: 2017-02-27 20:00:00 UTC+01:00
 .. tags: 
 .. category: 
