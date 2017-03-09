@@ -47,14 +47,23 @@ lang="${lang}">
 
     %if title == blog_title:
         <meta property="og:title" content="${blog_title|h}" /></title>
+        <meta property="twitter:title" content="${blog_title|h}" /></title>
     %else:
         <meta property="og:title" content="${title|h} | ${blog_title|h}" /></title>
+        <meta property="twitter:title" content="${title|h} | ${blog_title|h}" /></title>
     %endif
 
     <meta property="og:type" content="article" />
     <meta property="og:url" content="${abs_link(permalink)}" />
     <meta property="og:image" content="http://tribune.insoumis.online/assets/thumbnail.png" />
     <meta property="og:description" content="Tribune d'un collectif d'insoumis sur Internet.">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@Action_Insoumis">
+    <meta name="twitter:creator" content="@Action_Insoumis">
+    <meta name="twitter:description" content="Tribune d'un collectif d'insoumis sur Internet.">
+    <meta name="twitter:image" content="http://tribune.insoumis.online/assets/thumbnail.png">
+
 
     %if favicons:
         %for name, file, size in favicons:
