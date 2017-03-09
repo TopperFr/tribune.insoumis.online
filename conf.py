@@ -968,7 +968,6 @@ UNSLUGIFY_TITLES = True
 TWITTER_CARD = {
      'use_twitter_cards': True,      # enable Twitter Cards
      'card': 'summary',              # Card type, you can also use 'summary_large_image',
-     'image': 'http://la-physis.fr/assets/thumbnail.png',  # see https://dev.twitter.com/cards/types
      'site': '@action_insoumis',     # twitter nick for the website
      'creator': '@action_insoumis',  # Username for the content creator / author.
  }
