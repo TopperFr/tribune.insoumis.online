@@ -966,11 +966,11 @@ UNSLUGIFY_TITLES = True
 # Images displayed come from the `previewimage` meta tag.
 # You can specify the card type by using the `card` parameter in TWITTER_CARD.
 TWITTER_CARD = {
-     'use_twitter_cards': True,     # enable Twitter Cards
-     'card': 'summary',             # Card type, you can also use 'summary_large_image',
-                                    # see https://dev.twitter.com/cards/types
-     'site': '@action_insoumis',    # twitter nick for the website
-     'creator': '@action_insoumis', # Username for the content creator / author.
+     'use_twitter_cards': True,      # enable Twitter Cards
+     'card': 'summary',              # Card type, you can also use 'summary_large_image',
+     'image': 'http://la-physis.fr/assets/thumbnail.png',  # see https://dev.twitter.com/cards/types
+     'site': '@action_insoumis',     # twitter nick for the website
+     'creator': '@action_insoumis',  # Username for the content creator / author.
  }
 
 # If webassets is installed, bundle JS and CSS into single files to make
