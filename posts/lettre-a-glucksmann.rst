@@ -1,3 +1,12 @@
+.. title: Lettre à Raphaël Glucksmann - Pourquoi Mélenchon doit rester candidat
+.. slug: lettre-a-glucksmann
+.. date: 2017-03-10 19:42:28 UTC+01:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
 Cher Raphaël,
 
 Nous ne nous connaissons pas, mais je vais user de la même familiarité que celle que vous avez utilisée dans votre lettre ouverte à Jean-Luc Mélenchon. Il ne s'agit pas d'une preuve d'irrespect, mais d'une simple cordialité en signe de sympathie.
